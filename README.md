@@ -145,15 +145,3 @@ refurbished-phone-app/
 
 ---
 
-## Assessment Criteria Covered
-
-- **Problem-Solving:** Complete inventory, pricing, platform logic, and robust error handling.
-- **Code Quality:** Modular, documented, and type-checked code.
-- **Security:** Input validation, sanitization, and authentication demo.
-- **Functionality:** End-to-end flow with all required and bonus features.
-
----
-
-## License
-
-MIT License
